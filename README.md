@@ -31,6 +31,7 @@ Este projeto demonstra como executar uma aplicação web simples “Olá, mundo!
 ---
 
 📚 O que aprendi
+
 Configurar e rodar Apache HTTP Server em Docker
 
 Usar volumes para servir arquivos locais no container
