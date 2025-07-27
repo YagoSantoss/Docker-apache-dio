@@ -18,8 +18,7 @@ Este projeto demonstra como executar uma aplicação web simples “Olá, mundo!
    ![Preview](https://i.imgur.com/exemplo.png)
 -->
 
-![Preview](https://imgur.com/a/WPTFxdY)
-
+[![Captura-de-tela-2025-07-27-012335.png](https://i.postimg.cc/vZkv2RHY/Captura-de-tela-2025-07-27-012335.png)](https://postimg.cc/FYbc1BL8)
 ---
 
 ## 🛠 Tecnologias utilizadas
